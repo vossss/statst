@@ -1,1 +1,1 @@
-FROM quay.io/datawire/statsd:0.30.1
+FROM gcr.io/linkerd-io/controller:stable-2.6.1
